@@ -1,0 +1,76 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Mohamed Aldakhil
+ID:      169072233
+Email:   alda2233@mylaurier.ca
+Version: 2023-09-10
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+What is your age? 60
+What is your favourite band? The Beatles
+I am 60 years old and The Beatles is my favourite band.
+
+What is your age? 37
+What is your favourite band? The Rolling Stones
+I am 37 years old and The Rolling Stones is my favourite band.
+
+What is your age? 9
+What is your favourite band? AC/DC
+I am 9 years old and AC/DC is my favourite band.
+
+What is your age? 103
+What is your favourite band? R.E.M.
+I am 103 years old and R.E.M. is my favourite band.
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Length in miles: 35
+Length in km: 56.35
+
+Length in miles: 1
+Length in km: 1.61
+
+Length in miles: 0
+Length in km: 0.0
+
+Length in miles: 100
+Length in km: 161.0
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Cost of 1 dosa: 1.95
+Number of dosa:3
+Total cost of 3 dosas: $5.85
+
+Cost of 1 dosa: 2.45
+Number of dosa:1
+Total cost of 1 dosas: $2.45
+
+Cost of 1 dosa: 0
+Number of dosa:0
+Total cost of 0 dosas: $0.0
+
+Cost of 1 dosa: 100
+Number of dosa:5
+Total cost of 5 dosas: $500.0
+
+
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+
+-------------------------------------------------------
+
