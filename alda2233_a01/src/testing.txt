@@ -75,6 +75,25 @@ Total cost of 5 dosas: $500.0
 -------------------------------------------------------
 t05
 -------------------------------------------------------
+Principal: 5000.00
+Interest (%): 5.0
+Number of years: 10
+Number of times interest compounded per year: 12
+Balance: $8235.0474884514
+
+
+Principal: 23
+Interest (%): 2
+Number of years: 5
+Number of times interest compounded per year: 8
+Balance: $25.4157592330
+
+
+Principal: 674323
+Interest (%): 345
+Number of years: 76
+Number of times interest compounded per year: 3
+Balance: $4215381000272248470580591122047016527091281673038056983237521392950643314120458240.0000000000
 
 -------------------------------------------------------
 
